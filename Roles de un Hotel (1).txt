@@ -1,0 +1,44 @@
+esta no es mi proyecto de desarrollo
+
+Roles para un hotel.
+
+Rol: Sysadmin:
+Opciones:
+-TODO PODEROSO - CONTROL
+
+recursos humanos (contrata)
+Opciones:
+-Consultar empleados -SELECT
+-Agregar empleado - INSERT
+-Actualizar emlpeado - UPDATE
+
+
+Rol: Recepcionista.
+Opciones:
+-Consultar clientes -SELECT
+-Consultar reservacion -SELECT
+-Agregar cliente - INSERT
+-Agregar reservacion. - INSERT
+-Actualizar cliente. - UPDATE
+-Actualizar reservacion. - UPDATE
+-Eliminar reservacion. - DELETE
+
+Rol: Gerente.
+Opciones:
+-Consultar clientes -SELECT
+-Consultar reservacion -SELECT
+-Consultar empleado -SELECT
+-Agregar empleado. - INSERT
+-Agregar cliente. - INSERT
+-Agregar reservacion. - INSERT
+-Actualizar cliente. - UPDATE
+-Actualizar reservacion. - UPDATE
+-Eliminar reservacion. - DELETE
+
+Rol: Contador
+Opciones:
+-Consultar ventas -SELECT
+-Agregar gastos. - INSERT
+-Actualizar gastos. - UPDATE
+
+
